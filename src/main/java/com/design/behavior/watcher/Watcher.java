@@ -1,0 +1,1 @@
+package com.design.behavior.watcher;/** * @author Andy * @date 18/6/13 */public interface Watcher {    void update();}
