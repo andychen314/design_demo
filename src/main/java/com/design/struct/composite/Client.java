@@ -1,4 +1,4 @@
-package com.design.struct.component;
+package com.design.struct.composite;
 
 /**
  * @author Andy

@@ -1,4 +1,4 @@
-package com.design.struct.component;
+package com.design.struct.composite;
 
 import java.util.ArrayList;
 import java.util.List;
